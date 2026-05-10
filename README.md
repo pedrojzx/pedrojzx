@@ -1,4 +1,4 @@
-# Olá meu nome é Pedro Roberto
+# Olá👋, meu nome é Pedro Roberto
 
 **Sou um Programador junior em busca de novos conhecimentos, atualmente voltado para Back-End focado em Python e Java Script**
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/pedrojzx">
-    <img src="https://img.shields.io/badge/GitHub-pedrojzx-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-pedrojz-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidositespedrojzx">
     <img src="https://img.shields.io/badge/Instagram-@pedrojzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -35,9 +35,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrojzx&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojzx&layout=compact&theme=tokyonight" />
-</p>
