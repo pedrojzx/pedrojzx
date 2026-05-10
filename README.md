@@ -1,4 +1,4 @@
-# Olá👋, meu nome é Pedro Roberto
+# Olá, meu nome é Pedro Roberto!
 
 **Sou estudante da Faculdade Senac, cursando Análise e Desenvolvimento de Sistemas no projeto Embarque Digital, em parceria com o Porto Digital. Atualmente, atuo como programador júnior em busca de novos conhecimentos e desenvolvimento profissional, com foco em Back-End utilizando Python e JavaScript.**
 
