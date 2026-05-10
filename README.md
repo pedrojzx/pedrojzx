@@ -1,19 +1,6 @@
 # Olá👋, meu nome é Pedro Roberto
 
-**Sou um Programador junior em busca de novos conhecimentos, atualmente voltado para Back-End focado em Python e Java Script**
-
----
-
-## 🌐 Minhas Redes
-
-<p align="left">
-  <a href="https://github.com/pedrojzx">
-    <img src="https://img.shields.io/badge/GitHub-pedrojz-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidositespedrojzx">
-    <img src="https://img.shields.io/badge/Instagram-@pedrojzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+**Sou estudante da Faculdade Senac, cursando Análise e Desenvolvimento de Sistemas no projeto Embarque Digital, em parceria com o Porto Digital. Atualmente, atuo como programador júnior em busca de novos conhecimentos e desenvolvimento profissional, com foco em Back-End utilizando Python e JavaScript.**
 
 ---
 
