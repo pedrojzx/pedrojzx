@@ -1,4 +1,4 @@
-# Olá👋, meu nome é Pedro Roberto
+# Olá meu nome é Pedro Roberto
 
 **Sou um Programador junior em busca de novos conhecimentos, atualmente voltado para Back-End focado em Python e Java Script**
 
