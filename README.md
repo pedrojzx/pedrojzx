@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/pedrojzx">
-    <img src="https://img.shields.io/badge/GitHub-pedrojz-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-pedrojzz-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidositespedrojzx">
     <img src="https://img.shields.io/badge/Instagram-@pedrojzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
